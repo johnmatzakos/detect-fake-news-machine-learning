@@ -1,2 +1,1 @@
-# detect-fake-news-machine-learning
-Detecting fake news using machine learning algorithms
+# Detecting Fake News Using Machine Learning Algorithms

@@ -13,7 +13,7 @@ Packages used:
 
 Results:
 
-| extbf{Classifier}                   | 	extbf{Class} | \textbf{Precision} | \textbf{Recall} | \textbf{F1-Score} | \textbf{Accuracy} | \textbf{AUC Score} |
+| Classifier                   | 	Class | Precision | Recall | F1-Score | Accuracy | AUC Score |
 |-------------------------------------|----------------|--------------------|-----------------|-------------------|-------------------|--------------------|
 | Naive Bayes                | 0              | 83\%               | 81\%            | 82\%              | 82.49\%           | 89.48\%            |
 |                                     | 1              | 82\%               | 84\%            | 83\%              |                   |                    |
